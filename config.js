@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Dh có thích ko',
     messDesc: 'Có hay Không ạ',
     btnAccept: 'Chắc ko ổn r',
-    messLink: 'https://facebook.com/cute/Confess-DiemHuong' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://facebook.com/cute/Confess-DiemHuong' //link mess của các bạn. VD: https://facebook.com/dh-cute
 }
